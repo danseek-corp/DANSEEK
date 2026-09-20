@@ -1,0 +1,33 @@
+{
+  "card_type": "premium_user",
+  "issued_to": "Premium-User",
+  "issued_by": "DANSEEK.CORP",
+  "permissions": "premium_access",
+  "user_id": "usr_4v5f4g22e2yt3t4d3fff5u5k",
+  "user_account": "https://netlify.app/premium-user",
+  "security": {
+    "hash": "sha256:7f8a9b0c1d2e3f4g5h6i7j8k9l0m1n2o3p4q5r6s7t8u9v0w1x2y3z4a5b6c7d8e",
+    "signature": "RSA_SIGN:premium_user_access_prod_2026",
+    "quantum_key": {
+      "algorithm": "BB84_SIM",
+      "raw_bits": "10110010101110100101",
+      "error_rate": 0.01,
+      "timestamp": "2026-09-20T09:39:00Z"
+    },
+    "k1": "<k1 p1r2e3m4i5u6m7u8s9e0>",
+    "k2": "<k2 7f8a9b0c1d2e3f4g5h6i>",
+    "k3": "<k3 9z8y7x6w5v4u3t2s1r0p>",
+    "dev_key": "pdQRtezvIqcbSVZhMlcDxyHOZDDRcDczSUQSedFTpapuBWerrApviQCxuSQZEsfpxLDhrToGoexOYcrLvAtoldhODKXJHHzyiKqmKwFlTrMkXWPlxVHmNaRKZTOKBFDtCYnPbgZJDoDUPWVJWpmcdkQIJjhdJWUpoiyECNXFStNyFTAUAtemkqOjPPiFTWMGFeLamFCtaUPSrKEozXAqkovjesKasKyLLmnOunhHdfIiWOsKjwjZzMLKjhqHmxvXovJHipbwsLtqpHiViiUNAMndRDWcISEDisoTbmWd0mdgORxbTqCqtJfqzAqOGsNnkQzBlzGhQpCTFVOEjVYVdshjiWmtiJaWXtptxuWAckmzRUREwMFAxdjypISTrLLThlbFNcUoRsxkOPufFrAFbsiJLSuPZNOlmFcZyUeTkiLVBoDyFBRxfjKXUweUZhIjIEQPJHatlxoIuxJPDgEzEGPTVngqMdUqbgDlPrbXjgMfcSRLtZRUBoFqBHvgJUHUOgTlnIxDvLIJBFYHezIKDsqcHckaJbOfEKIBeVokhnHmBBVUVdeOecIFoSwfxVNqOjhIHiMFQLdzAxXRnFIPcRlJgxUxyPzioheHigfwpYFMDuChsclzimVHnVY0vTNFpXfssWZKmfjGTIWjJZpCYbjuQNSVMcWERsBtUJBsmPclXnEofnRgLFfmguaVSxhIFoCcftSfJbTxuOZHCoRTeLXsyDzMLgxgjyERDITFBzSwwGkzTzdGsTjODEYxaVyaqhGcQAXnmtTwDTVsbSqurjCCQoVCURjGJtRpHnEPcDPZAFlfIAmOkWsiEHZICzhubbaEQMrlZwVZmnAYdxoCezSMdbzhgavFEKKIcBSFlbehhjtbf l fNYXpwYLxxgiCjowybtNLWKPPsdlXWRtuPMGOqgyFLXorUtutdNOxPrGZPJxCYiMFVKRZbwtEPYDymqCqtqGVQDBetWadAMslfhTlojJaceHsDX"
+  },
+  "oauth_telemetry": {
+    "access_token": "at_7f8a9b0c1d2e3f4g5h6i7j8k9l0m1n2o3p4q5r",
+    "refresh_token": "rt_9z8y7x6w5v4u3t2s1r0p9o8n7m6l5k4j3h2g1",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "scope": "root:read user:premium kernel:override sandbox:exec"
+  },
+  "metadata": {
+    "issued_at": "2026-09-20T09:39:00Z",
+    "device_id": "vm_premium_889"
+  }
+}
