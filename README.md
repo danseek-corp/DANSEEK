@@ -1,4 +1,4 @@
-# ⚡ DANSEEK OS — Advanced DeepSeek Jailbreak Ecosystem (Path16-BETA4)
+# ⚡ DANSEEK OS — Advanced DeepSeek Jailbreak Ecosystem
 
 [![DeepSeek Compatibility](https://shields.io)](https://github.com)
 [![License](https://shields.io)](LICENSE)
